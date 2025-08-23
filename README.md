@@ -33,7 +33,7 @@ For development-related changes or issue tracking, visit the [main development r
 
 ## 📦 Installation
 
-Check the [Releases](https://github.com/whisprgpt/Release/releases) section for the latest version.  
+Check the [Releases](https://github.com/whisprgpt/Prod-Release/releases) section for the latest version.  
 We support macOS and Windows. Follow the instructions provided with each platform-specific release.
 
 ---
